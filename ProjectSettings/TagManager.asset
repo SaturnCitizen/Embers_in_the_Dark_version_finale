@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - luminosity_flame
+  - death_limit
+  - spikes_trap
+  - Blue
+  - Orange
+  - White
+  - Green
+  - wood_doors
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Background
+  - Ground
+  - Blackscreen
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Blackscreen
+    uniqueID: 3101774561
+    locked: 0
+  - name: Background
+    uniqueID: 1144756767
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
